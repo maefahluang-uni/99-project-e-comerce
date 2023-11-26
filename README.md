@@ -1,6 +1,11 @@
-Project
-=============
-Please use this template for your project.
+# Project: Khong khai hai
 
-List your group's member's below with ID and name.
+## Project Description
+This project is about finding lost items and finding the owner.
 
+## Team Members
+Metas Upathumpa 6331503001
+
+## Web App Deployment
+
+[(https://kkhauth.web.app/)https://kkhauth.web.app/](https://kkhauth.web.app/)https://kkhauth.web.app/
