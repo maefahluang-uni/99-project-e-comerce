@@ -1,6 +1,9 @@
-Project
+Project name : E-commerce
+=======
+E-commerce
+
 =============
-Please use this template for your project.
+Project description : 
 
-List your group's member's below with ID and name.
-
+Name                         Student ID     Github Account
+| Metas Upathumpa          | 6331503001     | 6331503001
